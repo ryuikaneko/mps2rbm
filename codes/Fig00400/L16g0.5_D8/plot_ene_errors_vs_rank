@@ -1,0 +1,13 @@
+set grid
+set xrange [0:]
+set yrange [0:]
+p \
+"< cat dat_cp_enes_L16_g0.5000000000_D8_rank*_seed*" u (1.0/$4):10 ti "", \
+"< cat dat_cp_enes_L16_g0.5000000000_D8_rank*_seed*" u (1.0/$4):11 ti ""
+pause -1
+
+set xrange [1e-2:]
+set yrange [1e-6:]
+set log
+replot x**2
+pause -1

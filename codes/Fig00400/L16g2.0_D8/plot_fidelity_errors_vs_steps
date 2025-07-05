@@ -1,0 +1,104 @@
+set grid
+p \
+"dat_cp_errors_L16_g2.0000000000_D8_rank8_seed12340" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank8_seed12341" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank8_seed12342" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank8_seed12343" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank8_seed12344" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank8_seed12345" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank8_seed12346" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank8_seed12347" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank8_seed12348" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank8_seed12349" ti "", \
+\
+"dat_cp_errors_L16_g2.0000000000_D8_rank16_seed12340" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank16_seed12341" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank16_seed12342" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank16_seed12343" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank16_seed12344" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank16_seed12345" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank16_seed12346" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank16_seed12347" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank16_seed12348" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank16_seed12349" ti "", \
+\
+"dat_cp_errors_L16_g2.0000000000_D8_rank24_seed12340" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank24_seed12341" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank24_seed12342" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank24_seed12343" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank24_seed12344" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank24_seed12345" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank24_seed12346" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank24_seed12347" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank24_seed12348" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank24_seed12349" ti "", \
+\
+"dat_cp_errors_L16_g2.0000000000_D8_rank32_seed12340" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank32_seed12341" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank32_seed12342" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank32_seed12343" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank32_seed12344" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank32_seed12345" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank32_seed12346" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank32_seed12347" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank32_seed12348" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank32_seed12349" ti "", \
+\
+"dat_cp_errors_L16_g2.0000000000_D8_rank40_seed12340" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank40_seed12341" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank40_seed12342" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank40_seed12343" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank40_seed12344" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank40_seed12345" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank40_seed12346" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank40_seed12347" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank40_seed12348" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank40_seed12349" ti "", \
+\
+"dat_cp_errors_L16_g2.0000000000_D8_rank48_seed12340" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank48_seed12341" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank48_seed12342" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank48_seed12343" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank48_seed12344" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank48_seed12345" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank48_seed12346" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank48_seed12347" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank48_seed12348" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank48_seed12349" ti "", \
+\
+"dat_cp_errors_L16_g2.0000000000_D8_rank56_seed12340" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank56_seed12341" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank56_seed12342" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank56_seed12343" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank56_seed12344" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank56_seed12345" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank56_seed12346" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank56_seed12347" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank56_seed12348" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank56_seed12349" ti "", \
+\
+"dat_cp_errors_L16_g2.0000000000_D8_rank64_seed12340" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank64_seed12341" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank64_seed12342" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank64_seed12343" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank64_seed12344" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank64_seed12345" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank64_seed12346" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank64_seed12347" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank64_seed12348" ti "", \
+"dat_cp_errors_L16_g2.0000000000_D8_rank64_seed12349" ti "", \
+\
+0
+pause -1
+
+set log y
+#set yrange [4e-3:]
+replot
+pause -1
+
+#set xrange [1:200]
+set xrange [1:1000]
+#set yrange [4e-3:]
+set log
+replot
+pause -1
