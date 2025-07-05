@@ -1,0 +1,8 @@
+e_cpd=-1.938991017230526026e+01
+e_exact=-2.001638790048517436e+01
+
+set grid
+p "< cat dat_vmc_enes_opt_L16_g1.0000000000_D8_rank56_seed12345 | cut -c3-27", \
+e_cpd, \
+e_exact
+pause -1

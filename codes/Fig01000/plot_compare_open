@@ -1,0 +1,11 @@
+e_exact=-2.001638790048517436e+01
+
+set grid
+p \
+"< cat ./L16g1.0_D8_rank8/dat_vmc_enes_opt_L16_g1.0000000000_D8_rank8_seed12345 | cut -c3-27", \
+"< cat ./L16g1.0_D8_rank16/dat_vmc_enes_opt_L16_g1.0000000000_D8_rank16_seed12345 | cut -c3-27", \
+"< cat ./L16g1.0_D8_rank24/dat_vmc_enes_opt_L16_g1.0000000000_D8_rank24_seed12345 | cut -c3-27", \
+"< cat ./L16g1.0_D8_rank32/dat_vmc_enes_opt_L16_g1.0000000000_D8_rank32_seed12345 | cut -c3-27", \
+"< cat ./L16g1.0_D8_rank40/dat_vmc_enes_opt_L16_g1.0000000000_D8_rank40_seed12345 | cut -c3-27", \
+e_exact
+pause -1
