@@ -118,7 +118,7 @@ def main():
     parser = argparse.ArgumentParser(description="dmrg and cp decomposition")
     parser.add_argument("--L", type=int, default=8, help="number of sites")
     parser.add_argument("--g", type=float, default=1.0, help="interaction")
-    parser.add_argument("--rank", type=int, default=8, help="cp rank")
+    parser.add_argument("--rank", type=int, default=4, help="cp rank")
     parser.add_argument("--seed", type=int, default=12345, help="random seed")
     args = parser.parse_args()
 
