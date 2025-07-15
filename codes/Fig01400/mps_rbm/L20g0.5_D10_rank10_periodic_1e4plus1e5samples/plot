@@ -1,0 +1,3 @@
+set grid
+p "< cat dat_vmc_enes_opt_L*_g*_D*_rank*_seed* | cut -c3-27"
+pause -1
