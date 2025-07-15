@@ -22,3 +22,5 @@ cp codes/Fig01000/fig_error_vs_rank/fig_ene_errors_vs_rank_log.pdf fig_11b.pdf
 cp codes/Fig01000/fig_optimization_periodic/fig_optimization_periodic.pdf fig_12.pdf
 
 cp codes/Fig01300/fig/fig.pdf fig_13.pdf
+cp codes/Fig01400/fig/fig.pdf fig_14.pdf
+cp codes/Fig01500/fig/fig.pdf fig_15.pdf
